@@ -1,20 +1,68 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>আমার নোট</title>
+    <title>আমার নিউজ ফিড</title>
     <link>https://example.com</link>
-    <description>ডেস্কটপ টিকারে দেখানোর জন্য</description>
+    <description>ডেস্কটপ টিকারে দেখানোর জন্য বার্তা</description>
 
     <item>
-      <title>নোট ১</title>
-      <description>এইটা আমার প্রথম টিকিং মেসেজ</description>
-      <link>https://example.com/note1</link>
+      <title>নিউজ ১</title>
+      <description>ঢাকায় আজ সর্বোচ্চ তাপমাত্রা ৩৪ ডিগ্রি সেলসিয়াস।</description>
+      <link>https://example.com/news1</link>
     </item>
 
     <item>
-      <title>নোট ২</title>
-      <description>আরও একটি বার্তা, যা স্ক্রল হবে</description>
-      <link>https://example.com/note2</link>
+      <title>নিউজ ২</title>
+      <description>মেট্রোরেলে যাত্রী সংখ্যা প্রতিদিনই বাড়ছে।</description>
+      <link>https://example.com/news2</link>
+    </item>
+
+    <item>
+      <title>নিউজ ৩</title>
+      <description>বাংলাদেশ বনাম ভারত ম্যাচ আগামী শুক্রবার।</description>
+      <link>https://example.com/news3</link>
+    </item>
+
+    <item>
+      <title>নিউজ ৪</title>
+      <description>দেশে ডেঙ্গুর সংক্রমণ বাড়ছে, সচেতন থাকার আহ্বান।</description>
+      <link>https://example.com/news4</link>
+    </item>
+
+    <item>
+      <title>নিউজ ৫</title>
+      <description>নতুন শিক্ষাবর্ষ শুরু হবে আগামী জানুয়ারিতে।</description>
+      <link>https://example.com/news5</link>
+    </item>
+
+    <item>
+      <title>নিউজ ৬</title>
+      <description>ইন্টারনেট গতি উন্নয়নে নতুন সাবমেরিন ক্যাবল সংযুক্ত।</description>
+      <link>https://example.com/news6</link>
+    </item>
+
+    <item>
+      <title>নিউজ ৭</title>
+      <description>বাজারে চালের দাম কিছুটা কমেছে।</description>
+      <link>https://example.com/news7</link>
+    </item>
+
+    <item>
+      <title>নিউজ ৮</title>
+      <description>শেয়ারবাজারে সূচক আজ ৩০ পয়েন্ট বেড়েছে।</description>
+      <link>https://example.com/news8</link>
+    </item>
+
+    <item>
+      <title>নিউজ ৯</title>
+      <description>আজ চাঁদ দেখা গেলে কাল ঈদ উদযাপিত হবে।</description>
+      <link>https://example.com/news9</link>
+    </item>
+
+    <item>
+      <title>নিউজ ১০</title>
+      <description>সারাদেশে বৃষ্টিপাতের সম্ভাবনা রয়েছে আগামী ৩ দিন।</description>
+      <link>https://example.com/news10</link>
     </item>
 
   </channel>
