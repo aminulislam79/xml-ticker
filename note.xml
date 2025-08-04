@@ -1,5 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<news>
-    <item>এইটা আমার প্রথম নোট, যেটা স্ক্রল করে যাবে।</item>
-    <item>আরও একটি বার্তা, যা ডান থেকে বামে স্ক্রল করবে।</item>
-</news>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>আমার নোট</title>
+    <link>https://example.com</link>
+    <description>ডেস্কটপ টিকারে দেখানোর জন্য</description>
+
+    <item>
+      <title>নোট ১</title>
+      <description>এইটা আমার প্রথম টিকিং মেসেজ</description>
+      <link>https://example.com/note1</link>
+    </item>
+
+    <item>
+      <title>নোট ২</title>
+      <description>আরও একটি বার্তা, যা স্ক্রল হবে</description>
+      <link>https://example.com/note2</link>
+    </item>
+
+  </channel>
+</rss>
